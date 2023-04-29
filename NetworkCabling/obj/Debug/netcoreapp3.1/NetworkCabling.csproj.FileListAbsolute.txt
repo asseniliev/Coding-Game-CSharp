@@ -1,0 +1,14 @@
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.exe
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.deps.json
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.runtimeconfig.json
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.runtimeconfig.dev.json
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.dll
+D:\Github\CodingGames\NetworkCabling\bin\Debug\netcoreapp3.1\NetworkCabling.pdb
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.csproj.AssemblyReference.cache
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.AssemblyInfoInputs.cache
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.AssemblyInfo.cs
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.csproj.CoreCompileInputs.cache
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.dll
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.pdb
+D:\Github\CodingGames\NetworkCabling\obj\Debug\netcoreapp3.1\NetworkCabling.genruntimeconfig.cache

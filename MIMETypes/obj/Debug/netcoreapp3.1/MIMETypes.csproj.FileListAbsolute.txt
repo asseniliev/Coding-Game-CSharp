@@ -1,0 +1,14 @@
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.exe
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.deps.json
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.runtimeconfig.json
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.runtimeconfig.dev.json
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.dll
+D:\Github\CodingGames\MIMETypes\bin\Debug\netcoreapp3.1\MIMETypes.pdb
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.csproj.AssemblyReference.cache
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.AssemblyInfoInputs.cache
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.AssemblyInfo.cs
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.csproj.CoreCompileInputs.cache
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.dll
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.pdb
+D:\Github\CodingGames\MIMETypes\obj\Debug\netcoreapp3.1\MIMETypes.genruntimeconfig.cache

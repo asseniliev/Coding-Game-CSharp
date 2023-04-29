@@ -1,0 +1,14 @@
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.exe
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.deps.json
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.runtimeconfig.json
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.runtimeconfig.dev.json
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.dll
+D:\Github\CodingGames\PowerOfThor\bin\Debug\netcoreapp3.1\PowerOfThor.pdb
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.csproj.AssemblyReference.cache
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.AssemblyInfoInputs.cache
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.AssemblyInfo.cs
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.csproj.CoreCompileInputs.cache
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.dll
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.pdb
+D:\Github\CodingGames\PowerOfThor\obj\Debug\netcoreapp3.1\PowerOfThor.genruntimeconfig.cache

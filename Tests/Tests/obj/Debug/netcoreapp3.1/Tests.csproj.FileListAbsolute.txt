@@ -1,0 +1,14 @@
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.exe
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.deps.json
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.json
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.runtimeconfig.dev.json
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.dll
+D:\Github\CodingGames\Tests\Tests\bin\Debug\netcoreapp3.1\Tests.pdb
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.AssemblyReference.cache
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfoInputs.cache
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.AssemblyInfo.cs
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.csproj.CoreCompileInputs.cache
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.dll
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.pdb
+D:\Github\CodingGames\Tests\Tests\obj\Debug\netcoreapp3.1\Tests.genruntimeconfig.cache
